@@ -1,0 +1,2 @@
+import CategoricalGaloisTheoryCanonicalLaneLean.GateLemmas
+import CategoricalGaloisTheoryCanonicalLaneLean.FinalTheorem
